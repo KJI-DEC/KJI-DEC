@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 -----
 
-  [![Jiin's github stats](https://github-readme-stats.vercel.app/api?username=KJI-DEC)](https://github.com/anuraghazra/github-readme-stats)
+  [![Jiin's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=KJI-DEC)](https://github.com/anuraghazra/github-readme-stats)
