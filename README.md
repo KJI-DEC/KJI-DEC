@@ -19,5 +19,5 @@
 <br>
 <br>
 
-[![Jingnii's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=kji-dec)](https://github.com/anuraghazra/github-readme-stats)
+![Jiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kji-dec&show_icons=true&theme=tokyonight)
 <div/>
