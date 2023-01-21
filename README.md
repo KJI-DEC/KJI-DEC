@@ -19,5 +19,5 @@
 <br>
 <br>
 
-![Jiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kji-dec&show_icons=true&theme=tokyonight)
+![Jiin's GitHub stats](https://github-readme-stats-delta-neon-50.vercel.app/api?username=kji-dec&show_icons=true&theme=tokyonight)
 <div/>
